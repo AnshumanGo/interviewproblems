@@ -1,4 +1,4 @@
-package test;
+package com.problems.java;
 
 public class PrimeNumberGeneration {
 

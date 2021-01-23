@@ -1,4 +1,4 @@
-package test;
+package com.problems.java;
 
 import java.util.Arrays;
 import java.util.TreeSet;

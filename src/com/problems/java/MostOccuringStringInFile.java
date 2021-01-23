@@ -1,4 +1,4 @@
-package test;
+package com.problems.java;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

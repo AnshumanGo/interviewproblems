@@ -35,6 +35,8 @@ public class FindFirstCommonElementInTwoList {
         Integer val = commonElement(al1, al2);
         if(val != null){
             System.out.println(val.intValue());
+        } else {
+            System.out.println("null");
         }
 
     }
